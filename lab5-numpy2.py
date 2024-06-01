@@ -7,8 +7,8 @@ import numpy as np
 # # git config --global user.email 147266485+s175012@users.noreply.github.com
 # c = a - b  # ending reset by input with no values
 # print(c)
-#
-# print(b**2)
+# git config --global user.email bl@nk.blank
+# print(b**2)  # config --global user.name blank
 #
 # print(a)
 # a += b
