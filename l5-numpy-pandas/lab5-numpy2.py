@@ -1,14 +1,19 @@
 import numpy as np
 
+# git config --global user.name s175012
+# git config --global user.email 147266485+s175012@users.noreply.github.com
+# git config --global user.email bl@nk.blank
+# git config --global user.name blank
+
 # a = np.array([20, 30, 40, 50])
 # b = np.arange(4)
 # print(a)
-# print(b)  # config --global user.name s175012
-# # git config --global user.email 147266485+s175012@users.noreply.github.com
+# print(b)
+#
 # c = a - b  # ending reset by input with no values
 # print(c)
-# git config --global user.email bl@nk.blank
-# print(b**2)  # config --global user.name blank
+#
+# print(b**2)
 #
 # print(a)
 # a += b

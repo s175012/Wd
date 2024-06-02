@@ -87,7 +87,7 @@ from math import *  # and we no longer write math. for mlib functions
 # fil.close()
 # print(cha)
 
-with open('tekst.txt', 'r') as fil:  # closes automatically
+with open('../tekst.txt', 'r') as fil:  # closes automatically
     cha = fil.read(10)
 
 print(cha)
